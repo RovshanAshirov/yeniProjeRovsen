@@ -6,9 +6,10 @@ public class Ogrenci {
             System.out.println("merhaba");
         }
         int secim=0;
-        while (secim<5){
-            System.out.println(" merhaba" );
+        while (secim<5) {
+            System.out.println(" merhaba");
             secim++;
+
         }
     }
 }
